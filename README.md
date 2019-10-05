@@ -1,3 +1,4 @@
+<div style="text-align:center"><img src="https://programandoconro.files.wordpress.com/2019/07/cropped-net-2.png?w=300" /></div>
 # Santander-SVM
 Machine Learning competition on kaggle.org. 88% accuracy with Support Vector Machine algorithm. Middle table rank position. 
 
